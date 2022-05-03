@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kevin</h1>
 <h3 align="center">A passionate Full Stack Developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and C#**
 
 - 💬 Ask me about **CSS, React and GraphQL**
 
